@@ -7,7 +7,7 @@ export default function Hero() {
 
       <div className="grid grid-cols-4 gap-6">
 
-        {data.videos.map((video, index) => (
+        {videos.map((video, index) => (
           <Card
             key={index}
             thumbnail={video.thumbnail}
