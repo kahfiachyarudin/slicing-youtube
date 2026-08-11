@@ -1,5 +1,6 @@
 import { User } from "lucide-react";
 import Card from "./Card";
+import data from "../data/data.json"
 
 export default function Hero() {
   return (
@@ -7,7 +8,7 @@ export default function Hero() {
 
       <div className="grid grid-cols-4 gap-6">
 
-        {videos.map((video, index) => (
+        {data.videos.map((video, index) => (
           <Card
             key={index}
             thumbnail={video.thumbnail}

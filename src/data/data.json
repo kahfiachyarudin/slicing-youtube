@@ -1,0 +1,136 @@
+{
+  "videos": [
+    {
+      "thumbnail": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=800",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvCBZNzX3stNo3MlHYc9fnpNpFHS9GRkzKiCiyK4vT8Q&s",
+      "title": "Belajar React Dari Nol Sampai Mahir",
+      "channel": "James Gouse",
+      "views": "15K Views",
+      "uploaded": "1 week ago",
+      "duration": "23:45"
+    },
+    {
+      "thumbnail": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=800",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBvq26wOg0Zi4H-gLYQKJsHN1IhEoteb3j2cn9u__ifA&s=10",
+      "title": "Cara Belajar Coding Agar Cepat Paham",
+      "channel": "Adam Wilson",
+      "views": "95K Views",
+      "uploaded": "2 months ago",
+      "duration": "19:24"
+    },
+    {
+      "thumbnail": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+      "title": "Membangun Startup dari Nol",
+      "channel": "Michael Brown",
+      "views": "143K Views",
+      "uploaded": "3 weeks ago",
+      "duration": "26:18"
+    },
+    {
+      "thumbnail": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=800",
+      "title": "Laptop Terbaik untuk Programmer 2026",
+      "channel": "Tech Daily",
+      "views": "68K Views",
+      "uploaded": "1 week ago",
+      "duration": "14:57"
+    },
+    {
+      "thumbnail": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?w=800",
+      "title": "Membuat REST API dengan Express.js",
+      "channel": "Code Academy",
+      "views": "37K Views",
+      "uploaded": "2 days ago",
+      "duration": "32:15"
+    },
+    {
+      "thumbnail": "https://images.unsplash.com/photo-1507146426996-ef05306b995a?w=800",
+      "title": "Produktivitas Programmer Sehari-hari",
+      "channel": "Dev Lifestyle",
+      "views": "49K Views",
+      "uploaded": "5 days ago",
+      "duration": "17:42"
+    },
+    {
+      "thumbnail": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=800",
+      "title": "Lofi Hip Hop Mix untuk Belajar dan Santai",
+      "channel": "Lofi Vibes",
+      "views": "2.1M views",
+      "uploaded": "2 months ago",
+      "duration": "1:32:18"
+    },
+    {
+      "thumbnail": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=800",
+      "title": "Review Film Sci-Fi Terbaik Sepanjang Masa",
+      "channel": "Movie Corner",
+      "views": "624K views",
+      "uploaded": "1 week ago",
+      "duration": "18:03"
+    },
+    {
+      "thumbnail": "https://images.unsplash.com/photo-1542751110-97427bbecf20?w=800",
+      "title": "Gameplay Valorant Ranked Sampai Radiant",
+      "channel": "Pro Gaming",
+      "views": "1.8M views",
+      "uploaded": "3 days ago",
+      "duration": "24:18"
+    },
+    {
+      "thumbnail": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=800",
+      "title": "Membuat Setup Meja Kerja Minimalis",
+      "channel": "Desk Studio",
+      "views": "540K views",
+      "uploaded": "5 days ago",
+      "duration": "11:48"
+    },
+    {
+      "thumbnail": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=800",
+      "title": "Menjelajahi Pegunungan yang Indah di Swiss",
+      "channel": "Travel Explore",
+      "views": "832K views",
+      "uploaded": "2 weeks ago",
+      "duration": "19:55"
+    },
+    {
+      "thumbnail": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=800",
+      "title": "Street Food Paling Enak di Jepang",
+      "channel": "Food Hunter",
+      "views": "3.4M views",
+      "uploaded": "4 months ago",
+      "duration": "16:20"
+    },
+    {
+      "thumbnail": "https://images.unsplash.com/photo-1517649763962-0c623066013b?w=800",
+      "title": "Final Menegangkan Liga Champions",
+      "channel": "Football World",
+      "views": "5.7M views",
+      "uploaded": "1 month ago",
+      "duration": "12:31"
+    },
+    {
+      "thumbnail": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=800",
+      "title": "Podcast: Cara Membangun Kebiasaan Positif",
+      "channel": "Talk Space",
+      "views": "210K views",
+      "uploaded": "1 day ago",
+      "duration": "58:42"
+    },
+    {
+      "thumbnail": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=800",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuEsU4IjIJnfSTYfGdYhHFRuXpj-L2fWKpX9745GOo9Q&s=10",
+      "title": "5 Gadget Terbaik yang Rilis Tahun Ini",
+      "channel": "Tech Review",
+      "views": "742K views",
+      "uploaded": "2 weeks ago",
+      "duration": "17:39"
+    },
+    {
+      "thumbnail": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=800",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfypBUq5bwAe9ANOoMoPLfSeSGyPuj9pg6f3yC8VqCBw&s=10",
+      "title": "Belajar Fotografi untuk Pemula",
+      "channel": "Creative Lens",
+      "views": "384K views",
+      "uploaded": "5 days ago",
+      "duration": "20:11"
+    }
+  ]
+}
